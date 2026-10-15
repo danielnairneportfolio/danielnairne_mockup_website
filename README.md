@@ -17,23 +17,6 @@ A multi-page website created as for a university course assignment. The project 
 
 Download the repository, then open `Homepage.html` in your browser. No installation or build process is required.
 
-## Project structure
-
-```text
-jamaica-tourism-website/
-├── index.html
-├── Gallerypage.html
-├── Contactpage.html
-├── FAQpage.html
-├── css/
-│   └── style.css
-├── images/
-│   ├── jamaicatourismlogo.png
-│   ├── scenery1.jpg
-│   └── scenery2.jpg
-└── README.md
-```
-
 ## Notes
 
 This is an unofficial, educational, and student-built website.
